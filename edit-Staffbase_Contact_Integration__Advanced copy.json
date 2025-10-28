@@ -1,0 +1,31 @@
+{
+"Report_Entry": [{
+   "Hire_Date": "2000-01-01",
+   "Job_Title": "Vice President, Human Resources",
+   "Legal_Full_Name": "Logan McNeil",
+   "Management_Level": "4 Vice President",
+   "Preferred_Locale": "en_US",
+   "Worker_Type": "Employee",
+   "department": "Human Resources",
+   "firstName": "Logan",
+   "id": "21001",
+   "jobFamily": "HR-Management",
+   "lastName": "McNeil",
+   "location": "San Francisco",
+   "primaryWorkEmail": "user@workday.net"
+}
+{
+   "Hire_Date": "2024-09-23",
+   "Job_Title": "Shipping & Receiving Associate",
+   "Legal_Full_Name": "Brittney Costello",
+   "Management_Level": "8 Individual Contributor",
+   "Preferred_Locale": "en_US",
+   "Worker_Type": "Contingent Worker",
+   "department": "Warehouse STK Group",
+   "firstName": "Brittney",
+   "id": "21586",
+   "jobFamily": "FA-Administration",
+   "lastName": "Costello",
+   "location": "Atlanta"
+}]
+}

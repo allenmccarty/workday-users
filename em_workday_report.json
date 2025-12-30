@@ -2,141 +2,204 @@
 "Report_Entry": [{
     "id": "WD000001",
     "email": "abigail.king18@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Abigail",
+    "lastname": "King"
   },
   {
     "id": "WD000002",
     "email": "alex.johnson@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Alex",
+    "lastname": "Johnson"
   },
   {
     "id": "WD000003",
     "email": "alexw@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Alex",
+    "lastname": "W"
   },
   {
     "id": "WD000004",
     "email": "anthony.adams128@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Anthony",
+    "lastname": "Adams128"
   },
   {
     "id": "WD000005",
     "email": "anthony.adams68@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Anthony",
+    "lastname": "Adams68"
   },
   {
     "id": "WD000006",
     "email": "anthony.davis47@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Anthony",
+    "lastname": "Davis47"
   },
   {
     "id": "WD000007",
     "email": "anthony.esposito@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Anthony",
+    "lastname": "Esposito"
   },
   {
     "id": "WD000008",
     "email": "diegos@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Diego",
+    "lastname": "S"
   },
   {
     "id": "WD000009",
     "email": "gradya@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Grady",
+    "lastname": "A"
   },
   {
     "id": "WD000010",
     "email": "henriettam@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Henrietta",
+    "lastname": "M"
   },
   {
     "id": "WD000011",
     "email": "isaiahl@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Isaiah",
+    "lastname": "L"
   },
   {
     "id": "WD000012",
     "email": "johannal@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Johanna",
+    "lastname": "L"
   },
   {
     "id": "WD000013",
     "email": "jongraham@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Jon",
+    "lastname": "Graham"
   },
   {
     "id": "WD000014",
     "email": "jonis@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Jon",
+    "lastname": "Is"
   },
   {
     "id": "WD000015",
     "email": "leeg@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Lee",
+    "lastname": "G"
   },
   {
     "id": "WD000016",
     "email": "lidiah@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Lidia",
+    "lastname": "H"
   },
   {
     "id": "WD000017",
     "email": "lynner@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Lynne",
+    "lastname": "R"
   },
   {
     "id": "WD000018",
     "email": "meganb@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Megan",
+    "lastname": "B"
   },
   {
     "id": "WD000019",
     "email": "miriamg@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Miriam",
+    "lastname": "G"
   },
   {
     "id": "WD000020",
     "email": "nestorw@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Nestor",
+    "lastname": "W"
   },
   {
     "id": "WD000021",
     "email": "pattif@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Patti",
+    "lastname": "F"
   },
   {
     "id": "WD000022",
     "email": "pradeepg@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Pradeep",
+    "lastname": "G"
   },
   {
     "id": "WD000023",
     "email": "rahul.batra@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Rahul",
+    "lastname": "Batra"
   },
   {
     "id": "WD000024",
     "email": "scimone@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "SCIM",
+    "lastname": "One"
   },
   {
     "id": "WD000025",
     "email": "scimtwo@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "SCIM",
+    "lastname": "TWO"
   },
   {
     "id": "WD000026",
     "email": "superadmin@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Allen",
+    "lastname": "McCarty"
   },
   {
     "id": "WD000028",
     "email": "anthony.adams148@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Anthony",
+    "lastname": "Adams148"
+  },
+   {
+    "id": "WD000029",
+    "email": "aria.hill50@moosetoque.onmicrosoft.com",
+    "custom_hosted_value": "chv100",
+    "firstname": "Aria",
+    "lastname": "Hill"
   },
   {
     "id": "WD000027",
     "email": "workdayreportviewer@moosetoque.onmicrosoft.com",
-    "custom_hosted_value": "chv100"
+    "custom_hosted_value": "chv100",
+    "firstname": "Workday",
+    "lastname": "Reporter"
 }]
 }

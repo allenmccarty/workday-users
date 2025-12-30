@@ -196,6 +196,13 @@
     "lastname": "Hill"
   },
   {
+    "id": "WD000030",
+    "email": "avery.phillips@moosetoque.onmicrosoft.com",
+    "custom_hosted_value": "chv100",
+    "firstname": "Avery",
+    "lastname": "Phillips"
+  },
+  {
     "id": "WD000027",
     "email": "workdayreportviewer@moosetoque.onmicrosoft.com",
     "custom_hosted_value": "chv100",

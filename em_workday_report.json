@@ -203,6 +203,13 @@
     "lastname": "Phillips"
   },
   {
+    "id": "WD000031",
+    "email": "bella.nelson@moosetoque.onmicrosoft.com",
+    "custom_hosted_value": "chv100",
+    "firstname": "Bella",
+    "lastname": "Nelson"
+  },
+  {
     "id": "WD000027",
     "email": "workdayreportviewer@moosetoque.onmicrosoft.com",
     "custom_hosted_value": "chv100",
